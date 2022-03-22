@@ -4,4 +4,4 @@ This repository contains my data science's POO final project: a clocking system 
 
 This clocking system uses objects to store each employee working journey as attributes throughout the day.
 
-The script is currently in brazillian portuguese!
+The code is currently in brazillian portuguese!
